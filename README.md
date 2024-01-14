@@ -1,4 +1,4 @@
-![image](https://github.com/Ydralite/canopy/assets/64652785/bf50b34d-9c1a-48fa-a25f-24537824223d)# Canopy
+# Canopy
 
 > A canopy is a majestic natural roof created by the interlocking branches of towering trees, sheltering a vibrant world of choices
 
