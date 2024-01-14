@@ -12,7 +12,7 @@ Refer to the [demo](output/demo.mp4) to see the app that generates a View Hierar
    - 1000-explore-hierarchy: Has the data exploration
    - 1010-generate-high-performing-vs: has the code to generate a High-Performing Vector Store
    - 1020-sample-ui-from-description: has the proposed solution to display sample UIs (from an existing database) that match a Description (open text field)
-   - 1030-generate-new-ui-from-description: has the code to generate a new UI from a description **which is deployed in streamlit (below)**
+   - 1030-generate-new-ui-from-description: has the code to generate a new UI from a description **which is deployed in main.py via streamlit (below)**
  
  - Streamlit
    - Create a venv based on the requirements.txt file
